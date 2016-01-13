@@ -1,3 +1,8 @@
+kbase
+kbase.po
+*.map
+-O
+
 # Object files
 *.o
 *.ko
